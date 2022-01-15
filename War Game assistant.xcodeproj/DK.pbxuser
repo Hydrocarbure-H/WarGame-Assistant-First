@@ -1,0 +1,93 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 42F753FA20B1C68400854009 /* War Game assistant */;
+		activeTarget = 8DD76FA90486AB0100D96B5E /* War Game assistant */;
+		codeSenseManager = 42F753FF20B1C6A600854009 /* Code sense */;
+		executables = (
+			42F753FA20B1C68400854009 /* War Game assistant */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					243,
+					20,
+					48.1626,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 548521604;
+			PBXWorkspaceStateSaveDate = 548521604;
+		};
+		sourceControlManager = 42F753FE20B1C6A600854009 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	08FB7796FE84155DC02AAC07 /* main.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2659, 7350}}";
+			sepNavSelRange = "{0, 16560}";
+			sepNavVisRect = "{{0, 0}, {764, 612}}";
+			sepNavWindowFrame = "{{23, 5}, {809, 741}}";
+		};
+	};
+	42F753FA20B1C68400854009 /* War Game assistant */ = {
+		isa = PBXExecutable;
+		activeArgIndex = 2147483647;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "War Game assistant";
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	42F753FE20B1C6A600854009 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	42F753FF20B1C6A600854009 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8DD76FA90486AB0100D96B5E /* War Game assistant */ = {
+		activeExec = 0;
+		executables = (
+			42F753FA20B1C68400854009 /* War Game assistant */,
+		);
+	};
+}
